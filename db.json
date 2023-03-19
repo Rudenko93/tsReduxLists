@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server 5",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "UPDATED TUTLE 6",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "json-server 8",
+      "done": false
+    },
+    {
+      "id": 4,
+      "title": "json-server 9",
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "json-server 10",
+      "done": false
+    },
+    {
+      "id": 6,
+      "title": "json-server 11",
+      "done": false
+    },
+    {
+      "title": "1",
+      "id": 8,
+      "done": false
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
